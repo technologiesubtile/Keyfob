@@ -1,4 +1,4 @@
-# Keyfob
+# Keyfob/WiFi-Button
 Wemos D1 mini wireless keyfob with MQTT publishing
 
 ![keyf_combo](https://user-images.githubusercontent.com/96028811/162501529-a7a92796-8460-4d62-b336-825e914196ab.jpg)
