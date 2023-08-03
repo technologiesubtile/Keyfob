@@ -1,6 +1,6 @@
 /*
    
-heinrich.desinger@cnrs.fr, F4HYZ
+heinrich.diesinger@cnrs.fr, F4HYZ
 Keyfob that publishes a command on mqtt server and then turns itself off using the autopowerhold mechanism involving S09 converter with enable input.
 EEPROM version that has no hardcoded settings, but is user configurable from the USB-UART, 9k6, 8N1
  
